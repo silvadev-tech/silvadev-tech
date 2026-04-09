@@ -5,7 +5,7 @@ Comecei aprendendo **Java puro**, testando e criando de tudo até ficar firme na
 achei que tudo tava legal e já estava pronto, mais me enganei , um dia um amigo me disse "cara só java puro não vira"
 Depois mergulhei no **Spring Boot** e enfrentei o desafio da arquitetura de pacotes e anotações que quase faz o pequeno programador bugar.  
 Passei pelo **banco de dados** e comecei a explorar testes com **Postman**.  
-Cada etapa foi intensa, mas me deixou mais preparado para ser um dev de verdade. 😎
+Cada etapa foi intensa, mas ainda não acabou até porque a programação não para , e todo dia surge tecnologias novas.
 
 ## 🛠️ Tecnologias que uso
 - Java
