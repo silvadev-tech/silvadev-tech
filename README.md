@@ -9,6 +9,9 @@ Cada etapa foi intensa, mas ainda não acabou até porque a programação não p
 
 ## 🛠️ Tecnologias que uso
 - Java
+- javascript
+- tipescript
+- react
 - Spring Boot
 - Maven
 - Git/GitHub
@@ -19,4 +22,4 @@ Cada etapa foi intensa, mas ainda não acabou até porque a programação não p
 - Projeto de cálculo de móveis (em breve)
 
 ---
-💡 *Java Backend Developer | Clean Code Enthusiast | Building Real Projects*
+💡 *Java Backend javascript react frontend Developer | Clean Code Enthusiast | Building Real Projects*
