@@ -12,7 +12,6 @@ Cada etapa foi intensa, mas ainda não acabou até porque a programação não p
 - javascript
 - tipescript
 - react
-- Spring Boot
 - Maven
 - Git/GitHub
 - Banco de Dados (MySQL, PostgreSQL)
