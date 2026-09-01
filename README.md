@@ -17,8 +17,7 @@ Cada etapa foi intensa, mas ainda não acabou até porque a programação não p
 - Banco de Dados (MySQL, PostgreSQL)
 
 ## 👨‍💻 Projetos em destaque
-- [CRUDRodrigoPronto](https://github.com/silvadev-tech/crudrodrigopronto)  
-- Projeto de cálculo de móveis (em breve)
+- Saas odontologico voltado para consultórios (Odontofile)
 
 ---
 💡 *Java Backend javascript react frontend Developer | Clean Code Enthusiast | Building Real Projects*
