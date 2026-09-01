@@ -6,6 +6,9 @@ achei que tudo tava legal e já estava pronto, mais me enganei , um dia um amigo
 Depois mergulhei no **Spring Boot** e enfrentei o desafio da arquitetura de pacotes e anotações que quase faz o pequeno programador bugar.  
 Passei pelo **banco de dados** e comecei a explorar testes com **Postman**.  
 Cada etapa foi intensa, mas ainda não acabou até porque a programação não para , e todo dia surge tecnologias novas.
+Hoje em dia eu trabalho com React+javascript e typescript stacks que me possibilitaram atingir o que eu vinha procurando
+que é a praticidade na construção de diversas aplicações como Saas e E-commerce muito por conta de poder integrar a linguagem 
+com a interface visual, venho me aprofundando em SOLID e sempre com Clean code para avançar com qualidade.
 
 ## 🛠️ Tecnologias que uso
 - Java
